@@ -1,5 +1,5 @@
-* [概述](summary.md)
-* [分类](genera)
+* [概述](chapter1/summary.md)
+* [分类](genera/genera.md)
  * [景天科](genera/Crassulaceae.md)
  * [番杏科](genera/Tetragoniaceae.md)
  * [仙人掌科]
